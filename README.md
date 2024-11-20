@@ -54,8 +54,7 @@ Navigate to the directory where you want to store the project.
 Run the following command to clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/WeatherApp.git
-Replace yourusername with your actual GitHub username if the repository is personal.
+git clone https://github.com/sunnyjaybhay/WeatherApp.git
 
 Alternatively, if you don't have Git installed, you can download the ZIP version of the repository from GitHub and extract it.
 
